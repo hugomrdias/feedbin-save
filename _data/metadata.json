@@ -1,0 +1,26 @@
+{
+    "title": "Feedbin Save",
+    "url": "https://feedbin.netlify.app",
+    "domain": "feedbin.netlify.app",
+    "image": "/android-chrome-192x192.png",
+    "description": "Feedbin Save",
+    "genre": "Insert a schema.org genre",
+    "googleAnalyticsId": "GA ID. Update me",
+    "feed": {
+      "subtitle": "Subtitle. Update me.",
+      "filename": "feed.xml",
+      "path": "/feed/feed.xml",
+      "id": "https://feedbin.netlify.app"
+    },
+    "jsonfeed": {
+      "path": "/feed/feed.json",
+      "url": "https://feedbin.netlify.app/feed/feed.json"
+    },
+    "author": {
+      "name": "Hugo Dias",
+      "twitterHandle": "hugomrdias"
+    },
+    "publisher": {
+      "name": "Hugo Dias"
+    }
+  }
